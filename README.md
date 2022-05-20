@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Leaderboard
+# Dice Game
 
-> Leaderboard is a project featuring ES6 syntax including async code with API calls, modules and webpack.
+> Dice Game is a game build using HTML, CSS, and JavaScript
 
 
 ## Built With
