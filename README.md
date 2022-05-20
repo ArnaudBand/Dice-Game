@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Leaderboard
+# Dice Game
 
-> Leaderboard is a project featuring ES6 syntax including async code with API calls, modules and webpack.
+> Dice Game is a game build using HTML, CSS, and JavaScript
 
 
 ## Built With
@@ -15,7 +15,7 @@
 
 # Live
 
-[live](https://arnaudband.github.io/Leaderboard/dist)
+[live](https://arnaudband.github.io/Dice-Game/dist)
 
 
 ## Getting Started
@@ -25,7 +25,7 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisite
 
  ```bash
- git@github.com:ArnaudBand/Leaderboard.git
+ git@github.com:ArnaudBand/Dice-Game.git
 ```
 
 A Web Browser (preferably Google Chrome)
