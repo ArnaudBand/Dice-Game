@@ -15,7 +15,7 @@
 
 # Live
 
-[live](https://arnaudband.github.io/Leaderboard/dist)
+[live](https://arnaudband.github.io/Dice-Game/dist)
 
 
 ## Getting Started
@@ -25,7 +25,7 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisite
 
  ```bash
- git@github.com:ArnaudBand/Leaderboard.git
+ git@github.com:ArnaudBand/Dice-Game.git
 ```
 
 A Web Browser (preferably Google Chrome)
